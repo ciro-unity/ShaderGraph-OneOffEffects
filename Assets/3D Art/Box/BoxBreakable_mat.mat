@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: BoxBreakable_mat
-  m_Shader: {fileID: -6465566751694194690, guid: 7bcdc2e16d5d3455987bd65d13d97b35,
+  m_Shader: {fileID: -6465566751694194690, guid: 7a13b428541a749a7872d0fdf6505bd5,
     type: 3}
   m_ShaderKeywords: _EMISSION _METALLICSPECGLOSSMAP _NORMALMAP _OCCLUSIONMAP
   m_LightmapFlags: 2
